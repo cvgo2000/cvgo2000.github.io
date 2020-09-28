@@ -1,4 +1,4 @@
-https://github.com/cvgo2000/cvgo2000.github.io/tree/master/HW01-Coding_Refactoring
+# https://github.com/cvgo2000/cvgo2000.github.io/HW01-Coding_Refactoring
 
 ![image](https://user-images.githubusercontent.com/70659004/94377412-a079ab00-00de-11eb-979c-c7f7e5f076b3.png)
 
