@@ -1,4 +1,6 @@
-# cvgo2000.github.io
+This project asked us to update the html and css files of a mock website and refactor the code with semantic elements, debug issues with links, and overall clean up the code without affecting accessibility of the site.
+
+I did find the excercise extremely challenging. While the html was relatively simple to update, consolidating the css file was more beyond my current scope of knowledge. And conversely what I thought would be the easiest challenge turned out to be the hardest in publishing my updated website to github and generating a working url to my site.
 
 ![image](https://user-images.githubusercontent.com/70659004/94377412-a079ab00-00de-11eb-979c-c7f7e5f076b3.png)
 
